@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Chebil</h1>
-<h3 align="center">A passionate software engineer from Tunisia</h3>
+<h3 align="center">I'm software Engineering Student | DevOps Passionate</h3>
 
 <p align="left">
 </p>
